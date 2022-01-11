@@ -20,14 +20,22 @@ vant : https://youzan.github.io/vant/#/zh-C%E2%80%A6
 
 View UI :  https://www.iviewui.com/  
 
+css框架
+
+bootstrap: https://getbootstrap.com/ 
+
+tailwindcss: https://tailwindcss.com/
+
+
 
 动画库 
 
  Animate.css ：  https://animate.style/ 
  
- hover.css 
- 
- wow.js 
+ hover.css : https://ianlunn.github.io/Hover/ 
+
+ wow.js : https://wowjs.uk/ 
+
  
  
 常用效果组件 
@@ -64,3 +72,4 @@ vue-draggable ：  https://www.itxst.com/vue-draggable/tutorial.html
  
  vue-simple-upload :   https://github.com/saivarunk/vue-simple-upload 
  
+学习视频路线图： https://www.bilibili.com/video/BV1ub4y1h7ZY/ 
